@@ -1,7 +1,8 @@
 body
 {
-    background-image: url(../images/pexels-abdullah-ghatasheh-1631677.jpg);
+    background-image: url(../images/pexels-wouter-de-jong-571169.jpg);
     background-size: cover;
+    background-position: center center;
     z-index: -2;
     font-family: 'Mynerve', cursive;
 }
